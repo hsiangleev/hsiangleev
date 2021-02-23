@@ -1,6 +1,6 @@
 ### 你好 👋
 
-我是hsianglee，常用名“凉宫”，2018届本科毕业，计算机科学与技术，现居安徽，小小前端程序猿
+我是hsianglee，常用名“凉宫”，2018届本科毕业，计算机科学与技术，现居安徽，小小前端程序猿。
 
 <!--
 **hsiangleev/hsiangleev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
