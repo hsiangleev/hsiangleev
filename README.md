@@ -5,6 +5,8 @@
 ![hsiangleev](https://github-readme-stats.vercel.app/api?username=hsiangleev&show_icons=true&include_all_commits=true)
 
 <!--
+![hsiangleev](https://github-readme-stats.vercel.app/api/top-langs/?username=hsiangleev&card_width=495)
+
 **hsiangleev/hsiangleev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
