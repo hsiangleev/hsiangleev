@@ -2,7 +2,7 @@
 
 我是hsianglee，常用名“凉宫”，2018届本科毕业，计算机科学与技术，现居安徽，小小前端程序猿。
 
-![hsiangleev](https://github-readme-stats.vercel.app/api?username=hsiangleev&show_icons=true&include_all_commits=true)
+![hsiangleev](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hsiangleev&show_icons=true&include_all_commits=true)
 
 <!--
 ![hsiangleev](https://github-stats.liuli.lol/api/top-langs/?username=hsiangleev&theme=vue&layout=compact)
